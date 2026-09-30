@@ -1,40 +1,40 @@
 {
-  "name": "Asad Al Badi",
-  "title": "Software Engineer",
-  "website": "asadalbadi.dev",
+  "name": "Marcie Tolbert",
+  "title": "SOC Analyst",
+  "website": "",
   "avatar": "assets/images/profile_cropped.png",
   "contactInfo": [
     {
       "icon": "fas fa-envelope",
-      "text": "asad.badi@proton.me"
+      "text": "marcietolbert@gmail.com"
     },
     {
       "icon": "fas fa-phone",
-      "text": "+968 77007169"
+      "text": "810 354-5220"
     },
     {
       "icon": "fas fa-map-marker-alt",
-      "text": "Muscat, Oman"
+      "text": "Michigan, United States"
     }
   ],
   "socialLinks": [
     {
       "icon": "fab fa-github",
-      "url": "https://github.com/asad-albadi",
+      "url": "https://github.com/marcietolbert",
       "label": "GitHub"
     },
     {
       "icon": "fab fa-linkedin",
-      "url": "https://www.linkedin.com/in/asadalbadi/",
+      "url": "https://www.linkedin.com/in/marcie-tolbert/",
       "label": "LinkedIn"
     },
     {
-      "icon": "fas fa-server",
+      "icon": "fas fa-pen",
       "url": "https://gist.github.com/asad-albadi/35387bd422d295fd79416d42febe7f7d",
-      "label": "Server Gist"
+      "label": "Write-ups"
     }
   ],
   "footer": {
-    "copyright": "© 2025 Asad Al Badi's Portfolio. All rights reserved."
+    "copyright": "© 2026 Marcie Tolbert's Portfolio. All rights reserved."
   }
 } 
